@@ -17,4 +17,5 @@ cargo run --target x86_64-pc-windows-gnu
 
 # compile for web
 cargo build --target wasm32-unknown-unknown
+
 ```
